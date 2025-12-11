@@ -1,0 +1,27 @@
+{
+  "video_source": "sources/test.mp4",
+  "frame_size": {
+    "width": 1280,
+    "height": 720
+  },
+  "restricted_zones": [
+    [
+      [
+        942,
+        447
+      ],
+      [
+        993,
+        716
+      ],
+      [
+        1119,
+        716
+      ],
+      [
+        1115,
+        465
+      ]
+    ]
+  ]
+}
